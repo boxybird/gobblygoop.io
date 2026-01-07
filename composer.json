@@ -16,7 +16,7 @@
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.8",
         "league/flysystem-aws-s3-v3": "^3.0",
-        "livewire/livewire": "^3.4",
+        "livewire/livewire": "^3.7",
         "livewire/volt": "^1.0",
         "overtrue/laravel-like": "^5.2",
         "spatie/laravel-medialibrary": "^11.0.0",
